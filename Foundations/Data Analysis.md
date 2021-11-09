@@ -19,3 +19,25 @@ Creating new ways of modeling and understanding the unknown by using raw data.
 
 ### Data analytics
 The science of data.
+
+
+## Data and Gut Instinct
+
+Analysts use data-driven decision-making and follow a step-by-step process. You have learned that there are six steps to this process:
+
+1. **Ask** questions and define the problem.
+
+2. **Prepare** data by collecting and storing the information.
+
+3. **Process** data by cleaning and checking the information.
+
+4. **Analyze** data to find patterns, relationships, and trends.
+
+5. **Share** data with your audience.
+
+6. **Act** on the data and use the analysis results.
+
+**Gut instinct** is an intuitive understanding of something with little or no explanation. This isn’t always something conscious; we often pick up on signals without even realizing. You just have a “feeling” it’s right.
+![Image of a person standing in front of a mirror, smiling at their reflection](Analytics\Foundations\woman_mirror.png)
+
+![The San Juan Mountains are beautiful!](\Google Data Analytics\Foundations\woman_mirror.png "San Juan Mountains")
