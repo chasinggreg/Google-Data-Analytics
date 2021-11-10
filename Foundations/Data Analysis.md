@@ -11,6 +11,8 @@
 
 ### Data Analyst
 - Someone who collects, transforms, and organizes data in order to help make informed decisions.  
+### Data-driven decision-making
+- Using facts to guide business strategy.
 
 ### Data Ecosystem
 - The various elements that interact with one another in order to produce, manage, store, organize, and share data.  
@@ -20,8 +22,13 @@
 
 ### Data analytics
 - The science of data.  
+
+### Gap analysis
+- A method for examining and evaluating how a process works currently in order to get where you want to be in the future.
 ### Root Cause
-- The reason why a problem occurs.
+- The reason why a problem occurs.  
+<hr>
+
 ## Data and Gut Instinct
 
 Analysts use data-driven decision-making and follow a step-by-step process. You have learned that there are six steps to this process:
@@ -41,6 +48,7 @@ Analysts use data-driven decision-making and follow a step-by-step process. You 
 **Gut instinct** is an intuitive understanding of something with little or no explanation. This isn’t always something conscious; we often pick up on signals without even realizing. You just have a “feeling” it’s right.  
 
 ![Image of a person standing in front of a mirror, smiling at their reflection](https://github.com/chasinggreg/Google-Data-Analytics/blob/master/Foundations/woman_mirror.png)
+<hr>
 
 ## Key data analyst skills
 1. Curiosity  
