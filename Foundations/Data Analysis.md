@@ -27,6 +27,8 @@
 - A method for examining and evaluating how a process works currently in order to get where you want to be in the future.
 ### Root Cause
 - The reason why a problem occurs.  
+### Stakeholders
+- People who have invested time and resources into a project and are interested in the outcome.  
 <hr>
 
 ## Data and Gut Instinct
@@ -34,6 +36,7 @@
 Analysts use data-driven decision-making and follow a step-by-step process. You have learned that there are six steps to this process:
 
 1. **Ask** questions and define the problem.
+   - Define the problem to be solved and make sure we fully understand stakeholder expectations.
 
 2. **Prepare** data by collecting and storing the information.
 
@@ -76,3 +79,22 @@ Identifying and defining a problem and then solving it by using data in an organ
 5. Big-picture and detail-oriented thinking
    - Like looking at a complete puzzle.
 
+<hr>  
+
+## Variations of the data life cycle
+
+1. Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
+
+2. Capture: Collect or bring in data from a variety of different sources.
+
+3. Manage: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
+
+4. Analyze: Use the data to solve problems, make decisions, and support business goals.
+
+5. Archive: Keep relevant data stored for long-term and future reference.
+
+6. Destroy: Remove data from storage and delete any shared copies of the data.
+
+**Warning:** Be careful not to mix up or confuse the six stages of the data life cycle (Plan, Capture, Manage, Analyze, Archive, and Destroy) with the six phases of the data analysis life cycle (Ask, Prepare, Process, Analyze, Share, and Act). They shouldn't be used or referred to interchangeably.  
+
+![Data Analysis Process](Foundations\Data Analysis.md)
