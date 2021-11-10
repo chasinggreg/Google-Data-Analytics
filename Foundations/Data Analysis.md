@@ -3,23 +3,23 @@
 ## Definitions
 
 ### Analytical Skill
-Qualities and characteristics associated with solving problems using facts.  
+- Qualities and characteristics associated with solving problems using facts.  
 ### Cloud
-A place to keep dat online, rather than a computer hard drive.  
+- A place to keep dat online, rather than a computer hard drive.  
 ### Data Analysis
-The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.  
+- The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.  
 
 ### Data Analyst
-Someone who collects, transforms, and organizes data in order to help make informed decisions.  
+- Someone who collects, transforms, and organizes data in order to help make informed decisions.  
 
 ### Data Ecosystem
-The various elements that interact with one another in order to produce, manage, store, organize, and share data.  
+- The various elements that interact with one another in order to produce, manage, store, organize, and share data.  
 
 ### Data Science
-Creating new ways of modeling and understanding the unknown by using raw data.  
+- Creating new ways of modeling and understanding the unknown by using raw data.  
 
 ### Data analytics
-The science of data.  
+- The science of data.  
 
 ## Data and Gut Instinct
 
