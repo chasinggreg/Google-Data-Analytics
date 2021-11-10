@@ -97,4 +97,4 @@ Identifying and defining a problem and then solving it by using data in an organ
 
 **Warning:** Be careful not to mix up or confuse the six stages of the data life cycle (Plan, Capture, Manage, Analyze, Archive, and Destroy) with the six phases of the data analysis life cycle (Ask, Prepare, Process, Analyze, Share, and Act). They shouldn't be used or referred to interchangeably.  
 
-![Data Analysis Process](Foundations\Data Analysis.md)
+![Data Analysis Process](https://github.com/chasinggreg/Google-Data-Analytics/blob/master/Foundations/data_analysis_process.png)
