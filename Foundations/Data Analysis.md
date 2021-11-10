@@ -38,5 +38,5 @@ Analysts use data-driven decision-making and follow a step-by-step process. You 
 6. **Act** on the data and use the analysis results.
 
 **Gut instinct** is an intuitive understanding of something with little or no explanation. This isn’t always something conscious; we often pick up on signals without even realizing. You just have a “feeling” it’s right.
-<hr />
+<br>
 ![Image of a person standing in front of a mirror, smiling at their reflection](https://github.com/chasinggreg/Google-Data-Analytics/blob/master/Foundations/woman_mirror.png)
