@@ -20,7 +20,8 @@
 
 ### Data analytics
 - The science of data.  
-
+### Root Cause
+- The reason why a problem occurs.
 ## Data and Gut Instinct
 
 Analysts use data-driven decision-making and follow a step-by-step process. You have learned that there are six steps to this process:
@@ -66,3 +67,4 @@ Identifying and defining a problem and then solving it by using data in an organ
    - Bring able to identify a correlation between two or more pieces of data.
 5. Big-picture and detail-oriented thinking
    - Like looking at a complete puzzle.
+
