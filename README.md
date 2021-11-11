@@ -17,3 +17,4 @@ By the end of this course, you will:
 - Evaluate the role of analytics in the data ecosystem. 
 - Conduct an analytical thinking self-assessment. 
 - Explore job opportunities available to you upon program completion, and learn about best practices in the job search.
+<hr>  
