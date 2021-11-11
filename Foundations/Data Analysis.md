@@ -13,15 +13,14 @@
 - Someone who collects, transforms, and organizes data in order to help make informed decisions.  
 ### Data-driven decision-making
 - Using facts to guide business strategy.
+### Data analytics
+- The science of data.  
 
 ### Data Ecosystem
 - The various elements that interact with one another in order to produce, manage, store, organize, and share data.  
 
 ### Data Science
 - Creating new ways of modeling and understanding the unknown by using raw data.  
-
-### Data analytics
-- The science of data.  
 
 ### Gap analysis
 - A method for examining and evaluating how a process works currently in order to get where you want to be in the future.
@@ -97,4 +96,51 @@ Identifying and defining a problem and then solving it by using data in an organ
 
 **Warning:** Be careful not to mix up or confuse the six stages of the data life cycle (Plan, Capture, Manage, Analyze, Archive, and Destroy) with the six phases of the data analysis life cycle (Ask, Prepare, Process, Analyze, Share, and Act). They shouldn't be used or referred to interchangeably.  
 
-![Data Analysis Process](https://github.com/chasinggreg/Google-Data-Analytics/blob/master/Foundations/data_analysis_process.png)
+![Data Analysis Process](https://github.com/chasinggreg/Google-Data-Analytics/blob/master/Foundations/data_analysis_process.png)  
+
+<hr>
+
+## Data analyst tools
+
+### Spreadsheets
+Data analysts rely on spreadsheets to collect and organize data. Two popular spreadsheet applications you will probably use a lot in your future role as a data analyst are Microsoft Excel and Google Sheets. 
+
+Spreadsheets structure data in a meaningful way by letting you 
+
+Collect, store, organize, and sort information
+
+Identify patterns and piece the data together in a way that works for each specific data project
+
+Create excellent data visualizations, like graphs and charts. 
+
+### Databases and query languages
+A database is a collection of structured data stored in a computer system. Some popular Structured Query Language (SQL) programs include MySQL, Microsoft SQL Server, and BigQuery.
+
+#### Query languages 
+
+- Allow analysts to isolate specific information from a database(s)
+
+- Make it easier for you to learn and understand the requests made to databases
+
+- Allow analysts to select, create, add, or download data from a database for analysis
+
+### Visualization tools
+Data analysts use a number of visualization tools, like graphs, maps, tables, charts, and more. Two popular visualization tools are Tableau and Looker.
+
+These tools 
+
+- Turn complex numbers into a story that people can understand 
+
+- Help stakeholders come up with conclusions that lead to informed decisions and effective business strategies  
+
+- Have multiple features 
+
+   - **Tableau**'s simple drag-and-drop feature lets users create interactive graphs in dashboards and   
+
+      worksheets 
+
+   - **Looker** communicates directly with a database, allowing you to connect your data right to the visual 
+
+      tool you choose 
+
+A career as a data analyst also involves using programming languages, like R and Python, which are used a lot for statistical analysis, visualization, and other data analysis.
