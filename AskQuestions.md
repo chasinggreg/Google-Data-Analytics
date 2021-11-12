@@ -228,3 +228,33 @@ This question is too vague because there is no context. Is it about comparing th
 
 ![Quantitative Data and Qualitative Data](/assets/quantitative_qualitative.png)  
 
+## The Big Reveal
+
+**Dashboard**
+- Monitors live, incoming data.
+
+Pros
+- Dynamic, automatic, and interactive
+- More stakeholder access
+- Low maintenance
+
+Cons
+- Labor-intensive design
+- Can be confusing
+- Potentially uncleaned data
+
+**Report**
+- Static collection of data given to stakeholders periodically  
+
+Pros  
+- High-level historical data
+- Easy to design
+- Pre-cleaned and sorted data
+
+Cons
+- Continual maintenance
+- Less visuallyy appealing
+- Static
+
+**Pivot Table**
+- A data summarization tool that is used in data processing. Pivot tables are used to summarize, sort, reorganize, group, count, total or averaga data stored in a database.  
