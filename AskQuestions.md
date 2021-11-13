@@ -269,20 +269,20 @@ The following table summarizes the benefits of using a dashboard for both data a
 
 | **Benefits**        | **For Data Analysts**           | **For Stakeholders**  |
 | ------------- | ------------- | ------------- |
-| **Centralization**      | `Sharing a single source of data with all stakeholders` | `Working with a comprehensive view of data, initiatives, objectives, projects, processes, and more` |
-| **Visualization**      | `Showing and updating live, incoming data in real time*`      |   `Spotting changing trends and patterns more quickly` |
-| **Insightfulness** | `Pulling relevant information from different datasets`      |    `Understanding the story behind the numbers to keep track of goals and make data-driven decisions` |
-| **Customization** | `Creating custom views dedicated to a specific person, project, or presentation of the data`      |    `Drilling down to more specific areas of specialized interest or concern` |
+| **Centralization**      | Sharing a single source of data with all stakeholders | Working with a comprehensive view of data, initiatives, objectives, projects, processes, and more |
+| **Visualization**      | Showing and updating live, incoming data in real time*      |   Spotting changing trends and patterns more quickly |
+| **Insightfulness** | `Pulling relevant information from different datasets      |    Understanding the story behind the numbers to keep track of goals and make data-driven decisions |
+| **Customization** | Creating custom views dedicated to a specific person, project, or presentation of the data      |    Drilling down to more specific areas of specialized interest or concern |
 
 *It is important to remember that changed data is pulled into dashboards automatically only if the data structure is the same. If the data structure changes, you have to update the dashboard design before the data can update live.*
 ## Creating a dashboard
 Here is a process you can follow to create a dashboard:
 
-1. `Identify the stakeholders who need to see the data and how they will use it`
+1. Identify the stakeholders who need to see the data and how they will use it
 
 To get started with this, you need to ask effective questions. Check out this [Requirements Gathering Worksheet](https://s3.amazonaws.com/looker-elearning-resources/Requirements+Gathering+Worksheet.pdf) to explore a wide range of good questions you can use to identify relevant stakeholders and their data needs. This is a great resource to help guide you through this process again and again. 
 
-2. `Design the dashboard (what should be displayed)`
+2. Design the dashboard (what should be displayed)
 
    - Use these tips to help make your dashboard design clear, easy to follow, and simple:
 
@@ -292,11 +292,11 @@ To get started with this, you need to ask effective questions. Check out this [R
 
     - Show the most important information at the top
 
-3. `Create mock-ups if desired `
+3. Create mock-ups if desired
 
 This is optional, but a lot of data analysts like to sketch out their dashboards before creating them. 
 
-4. `Select the visualizations you will use on the dashboard`
+4. Select the visualizations you will use on the dashboard
 
 You have a lot of options here and it all depends on what data story you are telling. If you need to show a change of values over time, line charts or bar graphs might be the best choice. If your goal is to show how each part contributes to the whole amount being reported, a pie or donut chart is probably a better choice.  
 
@@ -308,7 +308,7 @@ For more samples of area charts, column charts, and other visualizations, visit 
 
 Explore Tableau’s Viz of the Day to see visualizations curated by the community. These are visualizations created by Tableau users and are a great way to learn more about how other data analysts are using data visualization tools.  
 
-5. `Create filters as needed`
+5. Create filters as needed
 
 Filters show certain data while hiding the rest of the data in a dashboard. This can be a big help to identify patterns while keeping the original data intact. It is common for data analysts to use and share the same dashboard, but manage their part of it with a filter. To dig deeper into filters and find an example of filters in action, you can visit Tableau’s page on Filter Actions. This is a useful resource to save and come back to when you start practicing using filters in Tableau on your own. 
 
@@ -334,7 +334,7 @@ Whether you work with big or small data, you can use it to help stakeholders imp
 | Usually already a manageable size for analysis | Usually needs to be broken into smaller pieces in order to be organized and analyzed effectively for decision-making |
 
 ## Challenges and benefits  
-Here are some **`challenges`** you might face when working with big data:
+Here are some **challenges** you might face when working with big data:
 
 - A lot of organizations deal with data overload and way too much unimportant or irrelevant information. 
 
@@ -346,7 +346,7 @@ Here are some **`challenges`** you might face when working with big data:
 
 - There are gaps in many big data business solutions.
 
-Now for the good news! Here are some **`benefits`** that come with big data:
+Now for the good news! Here are some **benefits** that come with big data:
 
 - When large amounts of data can be stored and analyzed, it can help companies identify more efficient ways of doing business and save a lot of time and money.
 
@@ -357,7 +357,7 @@ Now for the good news! Here are some **`benefits`** that come with big data:
 - As in our earlier social media example, big data helps companies keep track of their online presence—especially feedback, both good and bad, from customers. This gives them the information they need to improve and protect their brand.  
 
 ## The three (or four) V words for big data
-When thinking about the benefits and challenges of big data, it helps to think about the three Vs: **`volume`**, **`variety`**, and **`velocity`**. Volume describes the amount of data. Variety describes the different kinds of data. Velocity describes how fast the data can be processed. Some data analysts also consider a fourth V: **`veracity`**. Veracity refers to the quality and reliability of the data. These are all important considerations related to processing huge, complex data sets.  
+When thinking about the benefits and challenges of big data, it helps to think about the three Vs: **volume**, **variety**, and **velocity**. Volume describes the amount of data. Variety describes the different kinds of data. Velocity describes how fast the data can be processed. Some data analysts also consider a fourth V: **veracity**. Veracity refers to the quality and reliability of the data. These are all important considerations related to processing huge, complex data sets.  
 
 
 | Volume | Variety | Velocity | Veracity |
